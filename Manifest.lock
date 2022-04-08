@@ -100,8 +100,6 @@ PODS:
   - Realm/Headers (3.0.2)
   - RevealServer (0.0.24)
   - RZDataBinding (2.1.0)
-  - SDCycleScrollView (1.82):
-    - SDWebImage (>= 5.0.0)
   - SDWebImage (5.9.5):
     - SDWebImage/Core (= 5.9.5)
   - SDWebImage/Core (5.9.5)
@@ -239,7 +237,6 @@ DEPENDENCIES:
   - Realm (= 3.0.2)
   - RevealServer (from `tools/Reveal`)
   - RZDataBinding (= 2.1.0)
-  - SDCycleScrollView (>= 1.82)
   - SDWebImage (= 5.9.5)
   - SDWebImageFLPlugin
   - SJVideoPlayer
@@ -304,7 +301,6 @@ SPEC REPOS:
     - ReactiveViewModel
     - Realm
     - RZDataBinding
-    - SDCycleScrollView
     - SDWebImage
     - SDWebImageFLPlugin
     - SJBaseVideoPlayer
@@ -405,7 +401,6 @@ SPEC CHECKSUMS:
   Realm: 6f23fd1f178a09342eac21bfa7c2bf4312a7a180
   RevealServer: f85a9367fa4bf1ba52882062572d504ab491052f
   RZDataBinding: 6981e90ddaae2f5e02028323b1043f8c31013109
-  SDCycleScrollView: a0d74c3384caa72bdfc81470bdbc8c14b3e1fbcf
   SDWebImage: 0b2ba0d56479bf6a45ecddbfd5558bea93150d25
   SDWebImageFLPlugin: 6c2295fb1242d44467c6c87dc5db6b0a13228fd8
   SJBaseVideoPlayer: 52ab45c54521c9988cb5a4d9abad444152248800
@@ -436,6 +431,6 @@ SPEC CHECKSUMS:
   YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
   ZFPlayer: 4b08ad793d3d3805300034ce450b58d4ee8f47bd
 
-PODFILE CHECKSUM: 383792380e801e2a07030a6e8ae28fa627c513bd
+PODFILE CHECKSUM: f724d4ba590625347a1dc9814009bdc33c27d79a
 
 COCOAPODS: 1.9.3
